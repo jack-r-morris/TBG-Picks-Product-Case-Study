@@ -4,7 +4,7 @@
 
 TBG Picks was a consumer sports picks and sweepstakes platform built around a simple thesis: sports prediction products could be more social, approachable, and community-driven.
 
-I joined the company shortly before launch as **Head of Marketing**. Although my title was marketing-focused, the company operated with a small core decision-making group consisting of the three founders and me.
+I joined the company shortly before launch as **Director of Product & Marketing**. Although my title was marketing-focused, the company operated with a small core decision-making group consisting of the three founders and me.
 
 My role consequently extended well beyond acquisition. I participated in product strategy, feature prioritization, UX decisions, monetization, community development, customer research, launch planning, analytics, and company-level decision making.
 
